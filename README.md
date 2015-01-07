@@ -83,7 +83,7 @@ The contents of the `all/` folder
 fall under *their own bundled licenses*.
 
 
-[pytz]: http://docs.python-pytz.org/en/latest/
+[pytz]: http://pythonhosted.org/pytz/
 [Package Control]: http://packagecontrol.io/
 [Sublime Text]: http://sublimetext.com/
 [pypi]: https://pypi.python.org/pypi/pytz
