@@ -10,7 +10,7 @@ for the [Sublime Text][] text editor.
 
 this repo | pypi 
 ---- | ----
-![latest tag](https://img.shields.io/github/tag/packagecontrol/pytz.svg) | [![pypi](https://pypip.in/version/pytz/badge.svg)][pypi]
+![latest tag](https://img.shields.io/github/tag/packagecontrol/pytz.svg) | [![pypi](https://img.shields.io/pypi/v/pytz.svg)][pypi]
 
 
 ## How to use *pytz* as a dependency
